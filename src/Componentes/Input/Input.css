@@ -1,0 +1,17 @@
+ .Div-conteiner{
+    display: flex;
+    width: 30%;
+    height: 5vh;
+    margin: 10px;
+    
+    
+    
+ }
+ .InputTexto{
+    width: 100%;
+    height: 100%;
+    color: black;
+    
+     
+ }
+ 
